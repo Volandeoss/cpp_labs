@@ -1,0 +1,6 @@
+﻿  diskret 3.cpp
+d:\volandemort\vladislave\diskret 3\diskret 3\diskret 3.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\volandemort\vladislave\diskret 3\diskret 3\diskret 3.cpp(41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\volandemort\vladislave\diskret 3\diskret 3\diskret 3.cpp(78): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\volandemort\vladislave\diskret 3\diskret 3\diskret 3.cpp(150): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  diskret 3.vcxproj -> D:\VOLANDEMORT\vladislave\diskret 3\Debug\diskret 3.exe
