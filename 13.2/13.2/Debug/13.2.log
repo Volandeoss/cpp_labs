@@ -1,0 +1,4 @@
+﻿  13.2.cpp
+c:\users\maxim\source\repos\vladislave\13.2\13.2\13.2.cpp(18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\maxim\source\repos\vladislave\13.2\13.2\13.2.cpp(22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  13.2.vcxproj -> C:\Users\Maxim\source\repos\vladislave\13.2\Debug\13.2.exe
