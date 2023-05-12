@@ -1,0 +1,3 @@
+﻿  17.1 muroslav.cpp
+d:\volandemort\vladislave\17.1 muroslav\17.1 muroslav\17.1 muroslav.cpp(62): warning C4715: 'list<pupil>::operator[]': not all control paths return a value
+  17.1 muroslav.vcxproj -> D:\VOLANDEMORT\vladislave\17.1 muroslav\Debug\17.1 muroslav.exe
